@@ -1,4 +1,4 @@
-# **Simple sniffer hecho en python** 
+# <p align="center"> Simple sniffer hecho en python </p> 
 <br>
 Esto es un simple sniffer que puede ser usado con wireshark para analizar los paquetes de toda la red, simplemente ejecutar las instrucciones de la herramienta dependiendo si se quiere sniffear toda la red o solamente un equipo.
 
