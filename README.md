@@ -11,13 +11,13 @@ Esto es un simple sniffer que puede ser usado con wireshark para analizar los pa
 En caso de querer sniffear solamente una ip:
 
 ```
-C:User>python sniffer.py 192.168.1.1 192.168.1.15
+C:User>python sniffer.py 192.168.1.1 192.168.1.15 wlan0
 
 ```
 
 En caso de querer sniffear toda la red:
 
 ```
-C:User>python sniffer.py 192.168.1.1 192.168.1.0/24
+C:User>python sniffer.py 192.168.1.1 192.168.1.0/24 wlan0
 
 ```
